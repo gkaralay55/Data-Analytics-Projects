@@ -1,6 +1,6 @@
 # Data-Analytics-Projects
 Project 1 through Datacamp : 
-Files:Dataset and notebook
+Files:Dataset:international_debt and notebook.ipynp
 Analyze International Debt Statistics
 Write SQL queries to answer interesting questions about international debt using data from The World Bank.
 1Project Tasks
